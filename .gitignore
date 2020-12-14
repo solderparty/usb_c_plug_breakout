@@ -1,0 +1,7 @@
+*.kicad_pcb-bak
+*.kicad_prl
+*-backups
+*.dcm
+*.bak
+*.bck
+*.net
